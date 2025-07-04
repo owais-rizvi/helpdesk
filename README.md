@@ -10,7 +10,7 @@
 ![alt text](image-2.png)
 
 ### Dashboard Page
-![alt text](image-3.png)
+![alt text](image-5.png)
 
 ### New Ticket Page
 ![alt text](image-4.png)
