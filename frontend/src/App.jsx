@@ -16,9 +16,9 @@ function App() {
         <Route path="/signup" element={<SignUpPage />} />
         <Route path="/signin" element={<SignInPage />} />
         <Route path="/forgotpassword" element={<ForgotPasswordPage />} />
-        <Route path="user/dashboard/" element={<Dashboard />} />
-        <Route path="user/myticket/" element={<MyTicket />} />
-        <Route path="user/newticket/" element={<NewTicket />} />
+        <Route path="/user/dashboard/" element={<Dashboard />} />
+        <Route path="/user/myticket/" element={<MyTicket />} />
+        <Route path="/user/newticket/" element={<NewTicket />} />
       </Routes>
     </div>
   );
